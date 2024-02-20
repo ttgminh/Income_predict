@@ -34,7 +34,6 @@ protobuf==4.25.2
 pyamg==5.0.1
 pyarrow==11.0.0
 pyasn1-modules==0.2.8
-pycurl==7.45.2
 pydeck==0.8.1b0
 PyDispatcher==2.0.5
 pyls-spyder==0.4.0
