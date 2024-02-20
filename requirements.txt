@@ -23,7 +23,6 @@ inflection==0.5.1
 jsonpointer==2.1
 mkl-service==2.4.0
 munkres==1.1.4
-mysqlclient==2.2.0
 openpyxl==3.0.10
 pandas-dq==1.29
 panel==0.14.4
